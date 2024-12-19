@@ -1,4 +1,5 @@
 1) Устанавливаем Docker:
+
 linux: curl -fsSL https://get.docker.com/ | sh
 
 windows/macos: https://www.docker.com/
@@ -13,6 +14,7 @@ docker-compose up -d
 http://localhost:1337/admin
   
 Доступ к админке:
+
 login: admin
 
 password: admin
